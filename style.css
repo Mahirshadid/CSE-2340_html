@@ -1,0 +1,17 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: pink;
+    background-color: black;
+}
+
+.sections {
+    display: flex;
+    border: 2px dashed red;
+    justify-content: center;
+}
+
+.bm3, .bm5 {
+    padding: 10px;
+    border: 2px solid green;
+    border-radius: 3rem;
+}
